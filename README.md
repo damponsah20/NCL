@@ -1,2 +1,2 @@
 # NCL
-NCAR Command Language
+NCAR Command Language particularly for visualizing spatial plots
